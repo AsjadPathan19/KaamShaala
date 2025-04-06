@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "277404158363",
+    "project_id": "workforce-3cf32",
+    "storage_bucket": "workforce-3cf32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277404158363:android:4c4bf7e2a720a3e92af93e",
+        "android_client_info": {
+          "package_name": "com.example.work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "277404158363-hnjar66gh1fksolngf0res7fqf5ub7tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work",
+            "certificate_hash": "2bdf93727c30d60b0f2f3bdad0f02fc99f994233"
+          }
+        },
+        {
+          "client_id": "277404158363-2tgk8si1f9ousf86u57vqvskpsoiv6o7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGV4O87P4Ay5AEMKOy5xcR21NPaq00DTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277404158363-2tgk8si1f9ousf86u57vqvskpsoiv6o7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "277404158363-jejp671a184vk3moc5sdg8n0dbid7nnq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.work"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
