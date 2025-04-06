@@ -43,7 +43,7 @@ KaamShaala is a mobile application designed to bridge the gap between daily wage
 
 ### Steps
 
-git clone https://github.com/your-username/KaamShaala.git
+git clone (https://github.com/AsjadPathan19/KaamShaala.git)
 cd KaamShaala
 flutter pub get
 flutter run
